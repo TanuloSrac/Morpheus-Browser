@@ -1,0 +1,13 @@
+C:\Users\Dragon989\source\repos\Morpheus\Morpheus\bin\Debug\Morpheus.exe.config
+C:\Users\Dragon989\source\repos\Morpheus\Morpheus\bin\Debug\Morpheus.exe
+C:\Users\Dragon989\source\repos\Morpheus\Morpheus\bin\Debug\Morpheus.pdb
+C:\Users\Dragon989\source\repos\Morpheus\Morpheus\bin\Debug\Morpheus.xml
+C:\Users\Dragon989\source\repos\Morpheus\Morpheus\obj\Debug\Morpheus.vbprojAssemblyReference.cache
+C:\Users\Dragon989\source\repos\Morpheus\Morpheus\obj\Debug\Morpheus.Form1.resources
+C:\Users\Dragon989\source\repos\Morpheus\Morpheus\obj\Debug\Morpheus.Resources.resources
+C:\Users\Dragon989\source\repos\Morpheus\Morpheus\obj\Debug\Morpheus.vbproj.GenerateResource.cache
+C:\Users\Dragon989\source\repos\Morpheus\Morpheus\obj\Debug\Morpheus.vbproj.CoreCompileInputs.cache
+C:\Users\Dragon989\source\repos\Morpheus\Morpheus\obj\Debug\Morpheus.exe
+C:\Users\Dragon989\source\repos\Morpheus\Morpheus\obj\Debug\Morpheus.xml
+C:\Users\Dragon989\source\repos\Morpheus\Morpheus\obj\Debug\Morpheus.pdb
+C:\Users\Dragon989\source\repos\Morpheus\Morpheus\obj\Debug\Morpheus.Form2.resources
